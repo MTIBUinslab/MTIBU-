@@ -6,11 +6,11 @@
 
 <p>
 
-# <h3> <strong> Green card N° 90864744 <br> 
+<h3> <strong> Green card N° 90864744 <br> 
  is registered in a single centralized database 17.05.2024 09:29
 </strong>
  </h3><br>
- <h3> <strong> Insurer <br></strong>
+ <h3> <strong>#  Insurer <br></strong>
  </h3>
 <p>  
 Company name: <br>
@@ -29,7 +29,7 @@ E-mail:
 Address:
  <br>
 <strong>32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine</strong> <br>
-<h3> <strong>Insurance terms</strong></h3><br>
+<h3> <strong> # Insurance terms</strong></h3><br>
 Expiration date: <br>
 <strong>from 17.05.2024 09:29 until 16.08.2024 09:29</strong>
  <br>
@@ -43,7 +43,7 @@ Territory of insurance coverage:
 <strong>All green card system except of BY, RUS and IR from 01.01.2024
  </strong><br>
  
- <h3> <strong> Vehicle 
+ <h3> <strong>#  Vehicle 
 <br></strong>
  </h3>
  
