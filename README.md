@@ -38,7 +38,7 @@ Expiration date: <br>
 </strong> <br>
 Insurance payment:<br>
 
-<strong>3713.00 eu <br></strong>
+<strong>3713.00 uah <br></strong>
 Territory of insurance coverage:
  <br>
 <strong>All green card system except of BY, RUS and IR from 01.01.2024
