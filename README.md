@@ -6,7 +6,7 @@
 <p>
 
 <h3> <strong> Green card N° 90864744 <br> 
- is registered in a single centralized database 23.12.2024 09:29
+ is registered in a single centralized database 15.03.2025 09:29
 </strong>
  </h3><br>
  <h3> <strong> Insurer <br></strong>
@@ -31,7 +31,7 @@ Address:
 
 <h3> <strong>  Insurance terms</strong></h3><br>
 Expiration date: <br>
-<strong>from 23.12.2024 09:29 until 22.02.2024 09:29</strong>
+<strong>from 15.03.2025 09:29 until 14.06.2025 09:29</strong>
  <br>
 <strong>inclusive:
 </strong> <br>
