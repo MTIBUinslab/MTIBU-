@@ -5,15 +5,17 @@
 
 <p>
 
-<h3> <strong> Green card N° 90864744 <br> 
- is registered in a single centralized database 15.03.2025 09:29
+<h3> <strong> Green card N° 40499329
+ <br> 
+ is registered in a single centralized database 16.05.2025 09:29
 </strong>
  </h3><br>
  <h3> <strong> Insurer <br></strong>
  </h3>
 <p>  
 Company name: <br>
-<strong>"IC "USG" PJSC</strong>
+<strong>PRJSC "IC" VUSO"
+</strong>
 <br>
   
 Insurer status:<br>
@@ -21,17 +23,20 @@ Insurer status:<br>
 MTIBU </strong> <br>
 Phone number:
 <br> 
- <strong>(044) 237-02-55</strong><br>
+ <strong>(044) 500-37-73
+</strong><br>
 E-mail:
  <br>
-<strong>office@usg.ua</strong> <br>
+<strong>vuso@vuso.ua
+</strong> <br>
 Address:
  <br>
-<strong>32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine</strong> <br>
+<strong>31, Kazymyra Malevycha str., Kiev, 03150, Ukraine
+</strong> <br>
 
 <h3> <strong>  Insurance terms</strong></h3><br>
 Expiration date: <br>
-<strong>from 15.03.2025 09:29 until 14.06.2025 09:29</strong>
+<strong>from 17.05.2025 09:29 until 31.05.2025 09:29</strong>
  <br>
 <strong>inclusive:
 </strong> <br>
@@ -50,16 +55,19 @@ Territory of insurance coverage:
  
 Number plate:
  <br>
-<strong>AX4318MC</strong> <br>
+<strong>AX1842CX
+</strong> <br>
 VIN-code <br>
-<strong>2M 38K 4HBL39519</strong>
+<strong></strong>
  <br>
 Vehicle type:
  <br>
-<strong>A: Motor cars, minibuses</strong> <br>
+<strong>C: Large goods vehicles
+</strong> <br>
 Mark and model:
  <br>
- <strong>LINCOLN MKX</strong> <br>
+ <strong>Volkswagen T5
+</strong> <br>
 
 </p>
 
