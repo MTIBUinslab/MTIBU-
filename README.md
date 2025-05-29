@@ -5,44 +5,46 @@
 
 <p>
 
-<h3> <strong> Green card N° 40499329
+<h3> <strong> Green card N° 40467699
  <br> 
- is registered in a single centralized database 16.05.2025 09:29
+ is registered in a single centralized database 29.05.2025 09:29
 </strong>
  </h3><br>
  <h3> <strong> Insurer <br></strong>
  </h3>
 <p>  
 Company name: <br>
-<strong>PRJSC "IC" VUSO"
+<strong>ARX IC JSC
 </strong>
 <br>
-  
+EDRPOU
+<strong> 20474912  </strong>
+<br>
 Insurer status:<br>
 <strong>The insurer is an active member of
 MTIBU </strong> <br>
 Phone number:
 <br> 
- <strong>(044) 500-37-73
+ <strong>(044) 499-24-99; 0 800-302-723
 </strong><br>
 E-mail:
  <br>
-<strong>vuso@vuso.ua
+<strong>mail@arx.com.ua
 </strong> <br>
 Address:
  <br>
-<strong>31, Kazymyra Malevycha str., Kiev, 03150, Ukraine
+<strong>8, Illinska str., Kyiv, 04070, Ukraine
 </strong> <br>
 
 <h3> <strong>  Insurance terms</strong></h3><br>
 Expiration date: <br>
-<strong>from 17.05.2025 09:29 until 31.05.2025 09:29</strong>
+<strong>from 30.05.2025 09:29 until 13.05.2025 09:29</strong>
  <br>
 <strong>inclusive:
 </strong> <br>
 Insurance payment:<br>
 
-<strong>3713.00 uah <br></strong>
+<strong>1156.00 uah <br></strong>
 Territory of insurance coverage:
  <br>
 <strong>All green card system except of BY, RUS and IR
@@ -55,18 +57,18 @@ Territory of insurance coverage:
  
 Number plate:
  <br>
-<strong>AX1842CX
+<strong>AX4318MC
 </strong> <br>
 VIN-code <br>
-<strong></strong>
+<strong>2LMPJ8KP4HBL39519</strong>
  <br>
 Vehicle type:
  <br>
-<strong>C: Large goods vehicles
+<strong>A: Motor cars, minibuses
 </strong> <br>
 Mark and model:
  <br>
- <strong>Volkswagen T5
+ <strong>Lincoln MKX
 </strong> <br>
 
 </p>
