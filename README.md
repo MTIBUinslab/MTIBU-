@@ -38,7 +38,7 @@ Address:
 
 <h3> <strong>  Insurance terms</strong></h3><br>
 Expiration date: <br>
-<strong>from 30.05.2025 09:29 until 13.05.2025 09:29</strong>
+<strong>from 30.05.2025 09:29 until 13.06.2025 09:29</strong>
  <br>
 <strong>inclusive:
 </strong> <br>
